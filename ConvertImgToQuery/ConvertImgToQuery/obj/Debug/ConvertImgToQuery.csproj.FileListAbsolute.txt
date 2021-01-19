@@ -1,0 +1,7 @@
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\bin\Debug\ConvertImgToQuery.exe.config
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\bin\Debug\ConvertImgToQuery.exe
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\bin\Debug\ConvertImgToQuery.pdb
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\obj\Debug\ConvertImgToQuery.csprojAssemblyReference.cache
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\obj\Debug\ConvertImgToQuery.csproj.CoreCompileInputs.cache
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\obj\Debug\ConvertImgToQuery.exe
+D:\QuangTan\consoleApp\ConvertImgToQuery\ConvertImgToQuery\obj\Debug\ConvertImgToQuery.pdb
